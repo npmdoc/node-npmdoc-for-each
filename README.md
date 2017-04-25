@@ -1,4 +1,7 @@
-# api documentation for  [for-each (v0.3.2)](https://github.com/Raynos/for-each)  [![npm package](https://img.shields.io/npm/v/npmdoc-for-each.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-for-each) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-for-each.svg)](https://travis-ci.org/npmdoc/node-npmdoc-for-each)
+# npmdoc-for-each
+
+#### basic api documentation for  [for-each (v0.3.2)](https://github.com/Raynos/for-each)  [![npm package](https://img.shields.io/npm/v/npmdoc-for-each.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-for-each) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-for-each.svg)](https://travis-ci.org/npmdoc/node-npmdoc-for-each)
+
 #### A better forEach
 
 [![NPM](https://nodei.co/npm/for-each.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/for-each)
@@ -87,7 +90,8 @@
             "android-browser/4.2"
         ]
     },
-    "version": "0.3.2"
+    "version": "0.3.2",
+    "bin": {}
 }
 ```
 
